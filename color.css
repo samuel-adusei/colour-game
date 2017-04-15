@@ -1,0 +1,22 @@
+body {
+	background: black;
+	}
+	
+.square {
+	width: 30%;
+	background: purple;
+	padding-bottom: 25%;
+	float: left;
+	margin: 1.66%;
+	}
+//this shapes the size of the squares
+	
+#container	{
+	max-width:600px;  //max width
+	margin: 0 auto;
+}
+
+h1 {
+	color:white;
+	text-align: center;
+}
